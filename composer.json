@@ -1,0 +1,11 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"oii\\user\\" : "src"
+		}
+	},
+	"name" : "oiisoft/oii-user",
+	"require" : {
+		"php" : ">=5.4"
+	}
+}
